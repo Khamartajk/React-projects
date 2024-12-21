@@ -12,6 +12,7 @@ function useCurrencyInfo(currency){
     console.log(data);
     return data
 }
+
 //https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/eur.json
 
 export default useCurrencyInfo;
