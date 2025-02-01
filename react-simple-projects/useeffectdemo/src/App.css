@@ -1,0 +1,22 @@
+.counter{
+    font-size: 1.5em;
+    color: #333;
+    font-weight: bold;
+    margin: 0.5em;
+    padding: 0.5em;
+    border: 1px solid #333;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+button{
+    font-size: 1em;
+    color: #333;
+    font-weight: bold;
+    margin: 0.5em;
+    padding: 0.5em;
+    border: 1px solid #333;
+    border-radius: 15px;
+    
+    cursor: pointer;
+} 

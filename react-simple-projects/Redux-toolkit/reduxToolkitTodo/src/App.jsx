@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className="text-blue-500 text-center text-3xl ">Currency converter</h1>
+      <h1> learn About Redux-Toolkit</h1>
     </>
   )
 }
